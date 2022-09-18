@@ -9,3 +9,4 @@ Some scripts to do something trivial.
 - [run_when_gpu_free](run_when_gpu_free): This script checks whether GPUs are free periodically, and if they are, runs the command(s) you specify.
 - [intertwine_sets](intertwine_sets): Compute the union, intersection or subtraction of two sets designated by files, and save the result to a file.
 - [split_list](split_list): Split a list into several groups and save to files.
+- [create_hard_link](create_hard_link): Create hard link for a file or a directory.
